@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1638914817 source:f:\ahmed\backup\college\3rd year 1st semester\data structure\my_work\labs\ahmed_mohamed_ahmed_abdelgawad_18010198_datastructure_lab7\big_integer\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1635598642 source:e:\college\3rd year 1st semester\data structure\my_work\labs\ahmed_mohamed_ahmed_abdelgawad_18010198_datastructure_lab2\sparse matrix\sparse_matrix\main.c
+	<stdio.h>
+	<stdlib.h>
+	<limits.h>
+	<string.h>
+

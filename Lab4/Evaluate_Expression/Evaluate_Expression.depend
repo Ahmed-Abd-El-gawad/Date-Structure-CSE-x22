@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1636758155 source:f:\ahmed\backup\college\3rd year 1st semester\data structure\my_work\labs\ahmed_mohamed_ahmed_abdelgawad_18010198_datastructure_lab4\evaluate_expression\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
